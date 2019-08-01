@@ -76,11 +76,20 @@ p {
   max-width: 1000px;
   margin: 0 auto;
 }
+.flex {
+  display: flex;
+}
 p {
   margin: 15px 0px;
 }
 ul, ol {
   margin: 15px 0px;
+}
+
+.float-image {
+  float: left;
+  margin-right: 15 px;
+  margin-bottom: 15 px;
 }
 
 section{
@@ -102,6 +111,7 @@ a:hover {
 a:visited {
   color: grey;
 }
+
 footer {
   background: #666666;
   text-align: center;
