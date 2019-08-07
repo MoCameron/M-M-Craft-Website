@@ -45,7 +45,7 @@ h1{
 }
 .title {
   font-size: 48px;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 h2{
   font-size: 60px;
@@ -95,7 +95,7 @@ ul, ol {
 
 section{
   /* background: #ffffff; */
-  border: 1px solid yellow;
+  border: 1px solid grey;
   background-color: white;
   margin: 30px;
   padding: 30px;
