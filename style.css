@@ -99,9 +99,15 @@ section{
   /* background: #ffffff; */
   border: 1px solid grey;
   background-color: white;
-  margin: 30px;
+  margin: 30px auto;
   padding: 30px;
+  position: center;
 }
+
+.youtube{
+  margin: 10px auto;
+}
+
 a:link,
 a:focus,
 a:active {
