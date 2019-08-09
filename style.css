@@ -111,7 +111,7 @@ section{
 a:link,
 a:focus,
 a:active {
-  color: red;
+  color: white;
   text-decoration: none;
 }
 a:hover {
